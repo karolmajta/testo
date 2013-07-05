@@ -1,2 +1,2 @@
-Testo - epic CI
+Testo - Epic CI
 ===============
